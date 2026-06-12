@@ -23,3 +23,10 @@ pip install streamlit requests pandas scikit-learn
 python -m streamlit run app.py
 ```
 
+## Other Projects
+
+- **AI Career Copilot** — AI-powered career guidance platform with resume builder, interview prep, and learning recommendations.
+- **Email Spam Classifier** — ML-based email spam detection system.
+- **Jarvis AI** — OpenAI-powered desktop voice assistant with speech recognition and text-to-speech.
+- **LLM Models** — Collection of LLM experiments and implementations.
+
